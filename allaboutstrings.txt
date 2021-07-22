@@ -1,0 +1,2 @@
+all alphabets and symbols are present in cpp using ascii sets.
+depending upon data types values are stored in data
